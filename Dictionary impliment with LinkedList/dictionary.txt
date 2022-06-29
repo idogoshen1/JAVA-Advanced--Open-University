@@ -1,0 +1,8 @@
+table
+this is a furniture for eating
+chair
+this is a furniture for sitting
+car
+take you from one place to another
+door
+closes the room
